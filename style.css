@@ -1,0 +1,16 @@
+body {
+    font-family: Arial;
+    text-align: center;
+    background: #fff;
+}
+
+h1 {
+    color: #D4AF37;
+}
+
+nav a {
+    margin: 10px;
+    text-decoration: none;
+    color: #ff69b4;
+    font-weight: bold;
+}
