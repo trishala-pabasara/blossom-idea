@@ -3,4 +3,4 @@
 Initial idea of building blossom.
 Using only html & css
 
-Find the actual project on here -> [BLOSSOM](https://github.com/trishala-pabasara/blossom)
+See it live -> [BLOSSOM](https://trishala-pabasara.github.io/blossom-idea)
